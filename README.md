@@ -15,16 +15,23 @@
 
 ### 👨🏼‍💻 Tecnologias
 **Conhecimentos em:**
+<p>
   HTML
   CSS
   JS
   PHP
   MySQL
   GIT
+</p>
+  
 **Estou estudando:**
-  JS
+  <p>
+    JS
+  </p>
 **Tenho interesse:**
-React
+  <p>
+    React
+  </p>
 ---
 
 <table align='left'>
