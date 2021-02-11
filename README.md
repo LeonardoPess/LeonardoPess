@@ -16,18 +16,19 @@
 ### 👨🏼‍💻 Tecnologias
 **Conhecimentos em:**
 <p>
-  HTML
-  CSS
-  JS
-  PHP
-  MySQL
+  HTML,
+  CSS,
+  JS,
+  PHP,
+  MySQL,
   GIT
 </p>
-  
+
 **Estou estudando:**
   <p>
     JS
   </p>
+  
 **Tenho interesse:**
   <p>
     React
