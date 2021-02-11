@@ -24,15 +24,6 @@
   GIT
 </p>
 
-**Estou estudando:**
-  <p>
-    JS
-  </p>
-  
-**Tenho interesse:**
-  <p>
-    React
-  </p>
 ---
 
 <table align='left'>
@@ -42,7 +33,7 @@
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopess&layout=compact'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=leonardopess&show_icons=true&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=leonardopess&show_icons=true'>
     </td>
   </row>
 </table>
