@@ -17,22 +17,18 @@
 **Conhecimentos em:**
 
 <p align="left">
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS</li>
-    <li>PHP</li>
-    <li>MySQL</li>
-    <li>GIT</li>
-   </ul>
+  HTML
+  CSS
+  JS
+  PHP
+  ySQL
+  GIT
 </p>
 
 **Estou estudando:**
 
 <p align="left">
-  <ul>
-    <li>JS</li>
-  </ul>
+  JS
 </p>
 
 **Tenho interesse:**
