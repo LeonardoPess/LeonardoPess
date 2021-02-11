@@ -1,6 +1,6 @@
 ### 👋 Olá, Meu Nome é Leonardo Pessoa
 
-<p>Atualmente estou estudando JS buscando ter uma base solida com html, css e js e para poder estudar React, aprendi a desenvolver de forma procedural, porém conheci a orientação a objetos e estou focado em desenvolver dessa forma!</p>
+<p>Atualmente estou estudando JS buscando ter uma base solida com html, css e js para poder estudar React, aprendi a desenvolver de forma procedural, porém conheci a orientação a objetos e estou focado em desenvolver dessa forma!</p>
 
 <p>Meu principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consiguo desenvolver algumas aplicações!</p>
 
