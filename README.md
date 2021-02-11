@@ -2,7 +2,7 @@
 
 <p>Atualmente estou estudando JS buscando ter uma base solida com html, css e js e para poder estudar React, aprendi a desenvolver de forma procedural, porém conheci a orientação a objetos e estou focado em desenvolver dessa forma!</p>
 
-<p>Meu principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho uma boa noção em PHP e MySQL e já consiguo desenvolver algumas aplicações!</p>
+<p>Meu principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consiguo desenvolver algumas aplicações!</p>
 
 <p>Estudo a mais de 5 meses focado. minhas experiência foram como freelance, mas esse ano quero conseguir trabalhar de forma remota, então vou continuar estudando com foco em JS e depois React!</p>
 
