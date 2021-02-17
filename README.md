@@ -2,7 +2,7 @@
 
 <p>Atualmente estou estudando JS buscando ter uma boa base para poder estudar React!</p>
 
-<p>Meu principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consiguo desenvolver algumas aplicações!</p>
+<p>Meu principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consigo desenvolver algumas aplicações!</p>
 
 <p>Estudo a mais de 6 meses focado. minhas experiência foram como freelance, mas esse ano quero conseguir trabalhar de forma remota, então vou continuar estudando com foco em JS e depois React!</p>
 
