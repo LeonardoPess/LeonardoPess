@@ -4,7 +4,7 @@
 
 <p>Meus principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consigo desenvolver algumas aplicações!</p>
 
-<p>Estudo a mais de 6 meses focado, minhas experiências foram como freelancer, mas esse ano quero conseguir trabalhar de forma remota, então vou continuar estudando sem desviar o foco do Front-End com React!</p>
+<p>Estudo a mais de 7 meses focado, minhas experiências foram como freelancer, mas esse ano quero conseguir trabalhar de forma remota, então vou continuar estudando sem desviar o foco do Front-End com React!</p>
 
 ---
 
