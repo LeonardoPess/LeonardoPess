@@ -1,6 +1,6 @@
 ### 👋 Olá, Meu Nome é Leonardo Pessoa
 
-<p>Atualmente estou estudando JS buscando melhorar meus conhecimentos e me introduzindo em React!</p>
+<p>Atualmente estou estudando React e buscando melhorar meus conhecimentos JavaScript!</p>
 
 <p>Meus principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consigo desenvolver algumas aplicações!</p>
 
