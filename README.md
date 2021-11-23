@@ -19,6 +19,7 @@
   HTML,
   CSS,
   JS,
+  React,
   PHP,
   MySQL,
   GIT
