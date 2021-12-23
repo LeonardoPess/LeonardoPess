@@ -4,12 +4,12 @@
 
 <p>Meus principais conhecimentos são no Front-End com html, css e js, já no Back-End eu tenho noção em PHP e MySQL e já consigo desenvolver algumas aplicações!</p>
 
-<p>Estudo a mais de 1 ano focado, minhas experiências foram como freelancer, vou continuar estudando buscando a fluência no inglês (sou intermediário) e sem desviar o foco do Front-End com React, buscando conseguir mais oportunidades na área, caso eu começe a estudar mais Back-End iria pelo NodeJS já que estou gostando muito de Javascript e do ecosistema React!</p>
+<p>Estudo a mais de 1 ano focado, minhas experiências foram como freelancer, vou continuar estudando com o foco em Front-End com React, buscando conseguir mais oportunidades na área, caso eu começe a estudar mais Back-End iria pelo NodeJS já que estou gostando muito de Javascript e do ecosistema React!</p>
 
 ---
 
 ### 🎯 Objetivo
-<p>📌 Entrar no mercado como Front-end Jr.</p> 
+<p>📌 Dominar ReactJS.</p>
 
 ---
 
@@ -18,9 +18,12 @@
 <p>
   HTML,
   CSS,
-  sass,
-  JS,
-  React,
+  SASS,
+  Javascript,
+  Typescript,
+  Styled Components,
+  ReactJS,
+  Next,
   PHP,
   MySQL,
   GIT
